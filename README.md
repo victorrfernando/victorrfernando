@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Victor Fernando
+#  Victor Fernando
 
 ### Sobre mim
 
@@ -56,16 +56,9 @@ Me chamo **Victor Fernando**, tenho **23 anos** e atualmente curso **Análise e 
 
 ###  Contatos
 
-<p align="left">
-
-  <a href="https://www.linkedin.com/in/victorrfernando/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/19971347151">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=victorfernando@gmail.com" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>    
+<div style="display: inline_block"><br>
+  <a href="https://www.linkedin.com/in/victorrfernando/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/19971347151"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=victorfernando@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+</br>
